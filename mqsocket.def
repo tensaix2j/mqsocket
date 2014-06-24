@@ -1,0 +1,8 @@
+EXPORTS
+	SocketOpen
+	SocketClose
+	SocketWriteString
+	SocketWriteData
+	SocketWriteString_ExpectReply
+	SocketReadString
+	TestFillString
